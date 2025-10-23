@@ -5,7 +5,7 @@ A simple, beautiful, and animated Weather Detector web application built using *
 ## Live demo : [Let's check](https://mohdsohel-07.github.io/weather-forecast/)
 
 ## 🚀 Features
-
+ 
 - 🔍 Get real-time weather data by entering a city name.
 - 🌡️ Displays temperature, weather condition, humidity, and wind speed.
 - 🎨 Modern glassmorphism UI with gradient background and animations.
