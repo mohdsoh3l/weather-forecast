@@ -2,7 +2,7 @@
 
 A simple, beautiful, and animated Weather Detector web application built using **HTML**, **CSS**, and **JavaScript**, that fetches real-time weather data based on city names using the **OpenWeatherMap API**.
 
-## Live demo : [Let's check](https://mohdsohel-07.github.io/weather-forecast/)
+## Live demo : [Let's check](https://mohdsoh3l.github.io/weather-forecast/)
 
 ## 🚀 Features
  
